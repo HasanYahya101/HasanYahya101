@@ -21,6 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanyahya101&show_icons=true&locale=en" alt="hasanyahya101" /></p>
 
-## GitHub Streak
+## GitHub Streak:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasanYahya101)
