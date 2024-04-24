@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web and Backend Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HasanYahya101?tab=repositories](https://github.com/HasanYahya101?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories Tab](https://github.com/HasanYahya101?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
