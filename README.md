@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanyahya101&label=Profile%20views&color=0e75b6&style=flat" alt="hasanyahya101" /> </p>
 
 <p align="center"> 
-  ![wth-smile](https://github.com/HasanYahya101/HasanYahya101/assets/118683092/b341bce7-4729-43e5-9bce-0fb426d33398)
+  <img src="https://github.com/HasanYahya101/HasanYahya101/assets/118683092/b341bce7-4729-43e5-9bce-0fb426d33398" width="120" height="120" alt="Description of the image">
 </p>
 
 - 🌱 I’m currently learning **Web and Backend Development.**
