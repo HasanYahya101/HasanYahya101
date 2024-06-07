@@ -7,7 +7,7 @@
   <img src="https://github.com/HasanYahya101/HasanYahya101/assets/118683092/b341bce7-4729-43e5-9bce-0fb426d33398" width="120" height="120" alt="Description of the image">
 </p>
 
-- 🌱 I’m currently learning and exploring **different Interests in different fields.**
+- 🌱 I’m currently learning and exploring **different Interests in different fields of Software.**
 
 - 👨‍💻 All of my projects are available in the [Repositories Tab](https://github.com/HasanYahya101?tab=repositories).
 
