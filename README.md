@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanYahya101&hide=percent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanyahya101&show_icons=true&locale=en" alt="hasanyahya101" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanyahya101&show_icons=true&locale=en" alt="hasanyahya101" /></p>
 
 ## GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasanYahya101)
