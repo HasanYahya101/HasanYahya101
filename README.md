@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanyahya101&show_icons=true&locale=en" alt="hasanyahya101" /></p>
 
 ## GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HasanYahya101)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasanYahya101)
